@@ -1,0 +1,7 @@
+This project focuses on managing a supermarket through a database management system (DBMS). Here's a summary of the project in two points:
+
+1. *Tables and Relationships*: The project includes three tables: "products," "customers," and "orders." These tables store information about products, customers, and orders, respectively. The tables are linked through foreign key relationships, ensuring data integrity and maintaining associations between entities.
+
+2. *Functionality*: The project allows you to perform essential operations such as adding products and customers, placing orders, updating product prices, and deleting customer records. The provided code demonstrates inserting sample data into the tables, retrieving information, updating records, and deleting entries, providing a foundation for managing supermarket inventory and customer orders.
+
+Overall, this DBMS project enables efficient tracking of products, customers, and orders in a supermarket, facilitating inventory management and customer service.
